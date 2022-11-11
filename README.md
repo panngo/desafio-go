@@ -1,2 +1,2 @@
 # desafio-go
-docker pull panngo/desafio-go:lastest
+docker pull panngo/desafio-go:latest
